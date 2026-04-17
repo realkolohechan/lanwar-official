@@ -2,7 +2,7 @@
   "busybox": {
     "description": "a sh",
     "versions": {
-      "1.36.1": "busybox-1.36.1.war"
+      "1.36.1": "busyboxsh-1.36.1.war"
     }
   },
   "glibc": {
