@@ -1,8 +1,14 @@
 {
   "busybox": {
-    "description": "a sh used in os development",
+    "description": "a sh",
     "versions": {
       "1.36.1": "busybox-1.36.1.war"
+    }
+  },
+  "glibc": {
+    "description": "library",
+    "versions": {
+      "2.40.1": "glibc.war"
     }
   }
 }
