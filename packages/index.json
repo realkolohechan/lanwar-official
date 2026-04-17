@@ -1,5 +1,5 @@
 {
-  "busyboxsh": {
+  "busy": {
     "description": "a sh",
     "versions": {
       "1.36.1": "busyboxsh-1.36.1.war"
