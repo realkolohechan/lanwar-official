@@ -1,0 +1,9 @@
+{
+  "busybox": {
+    "description": "a sh used in os development",
+    "versions": {
+      "1.36.1": "busybox-1.36.1.war"
+    }
+  }
+}
+
