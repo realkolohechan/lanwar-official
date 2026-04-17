@@ -8,7 +8,7 @@
   "glibc": {
     "description": "library",
     "versions": {
-      "2.40.1": "glibc-2.40.1.war"
+      "2.42": "glibc-2.42.war"
     }
   }
 }
