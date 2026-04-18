@@ -10,6 +10,12 @@
     "versions": {
       "2.42": "glibc-2.42.war"
     }
+  },
+  "lanwar": {
+    "description": "package",
+    "versions": {
+      "1.0.0": "lanwar-1.0.0.war"
+    }
   }
 }
 
